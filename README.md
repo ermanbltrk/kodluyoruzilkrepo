@@ -3,7 +3,8 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 ![Kodluyoruz Logo](https://github.com/ermanbltrk/kodluyoruzilkrepo/blob/main/resimler/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(71).png)
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-https://github.com/ermanbltrk/kodluyoruzilkrepo.git
+
+`https://github.com/ermanbltrk/kodluyoruzilkrepo.git`
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
